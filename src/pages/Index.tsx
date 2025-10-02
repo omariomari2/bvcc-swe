@@ -43,7 +43,7 @@ const Index = () => {
         <div className="text-center mb-12">
           {/* 🎯 Logo and Title */}
           <div className="flex items-center justify-center mb-6">
-            <div className="bg-gradient-to-r from-blue-600 to-indigo-600 p-4 rounded-full">
+            <div className="bg-gradient-to-r from-green-600 to-indigo-600 p-4 rounded-full">
               <Database className="h-12 w-12 text-white" />
             </div>
           </div>
